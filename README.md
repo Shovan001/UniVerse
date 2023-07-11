@@ -1,6 +1,6 @@
 # UniVerse
 
-Welcome to UniVersr a Social Media Website! This platform aims to connect people from all around the world,
+Welcome to Universe a Social Media Website! This platform aims to connect people from all around the world,
 allowing them to share their thoughts, ideas, and experiences with others. Whether you're looking to make new friends, 
 stay in touch with loved ones, or explore diverse communities, we've got you covered.
 
